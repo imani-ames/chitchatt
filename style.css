@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     font-family: 'Open Sans', sans-serif;
-    background: linear-gradient(90deg, #343a40, #344e41, #343a40);
+    background: linear-gradient(90deg, #e8e8e4 #344e41);
 }
 
 #message-container {
